@@ -1,10 +1,6 @@
-import React, { Component } from 'react';
-import './App.css';
+import React, { Component } from 'react'
+import './App.css'
 
-const App = props => (
-  <div className="App">
-    All Cleaned!
-  </div>
-)
+const App = props => <div className="App">All Cleaned!</div>
 
-export default App;
+export default App
